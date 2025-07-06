@@ -93,19 +93,16 @@
 
 ### Kernel 3×3
 ![3x3 Accuracy](plots/2/cnn_kernel_3x3_accuracy.png "kernel 3x3 accuracy")
-![3x3 Gradient Flow](plots/2/cnn_kernel_3x3_gradients.png "kernel 3x3 gradients")
 
 ### Kernel 5×5
 ![5x5 Accuracy](plots/2/cnn_kernel_5x5_accuracy.png "kernel 5x5 accuracy")
-![5x5 Gradient Flow](plots/2/cnn_kernel_5x5_gradients.png "kernel 5x5 gradients")
 
 ### Kernel 7×7
 ![7x7 Accuracy](plots/2/cnn_kernel_7x7_accuracy.png "kernel 7x7 accuracy")
-![7x7 Gradient Flow](plots/2/cnn_kernel_7x7_gradients.png "kernel 7x7 gradients")
 
 ### Kernel 1×1 + 3×3
 ![1x1+3x3 Accuracy](plots/2/cnn_kernel_1x1_3x3_accuracy.png "kernel 1x1+3x3 accuracy")
-![1x1+3x3 Gradient Flow](plots/2/cnn_kernel_1x1_3x3_gradients.png "kernel 1x1+3x3 gradients")
+
 
 ## 2.2 Влияние глубины сети
 
@@ -120,15 +117,12 @@
 
 ### 2 Conv Layers
 ![2 Layers Accuracy](plots/2/cnn_2layer_accuracy.png "2-layer accuracy")
-![2 Layers Gradient Flow](plots/2/cnn_2layer_gradients.png "2-layer gradients")
 
 ### 4 Conv Layers
 ![4 Layers Accuracy](plots/2/cnn_4layer_accuracy.png "4-layer accuracy")
-![4 Layers Gradient Flow](plots/2/cnn_4layer_gradients.png "4-layer gradients")
 
 ### 6 Conv Layers
 ![6 Layers Accuracy](plots/2/cnn_6layer_accuracy.png "6-layer accuracy")
-![6 Layers Gradient Flow](plots/2/cnn_6layer_gradients.png "6-layer gradients")
 
 ### ResNet
 ![ResNet Accuracy](plots/2/cnn_resnet_accuracy.png "resnet accuracy")
